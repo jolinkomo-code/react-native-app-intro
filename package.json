@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/jolinkomo-code/react-native-app-intro/blob/master/README.md",
   "dependencies": {
-    "assign-deep": "1.5.13",
+    "assign-deep": "0.4.7",
     "prop-types": "^15.5.10",
     "react-native-swiper": "https://github.com/Agontuk/react-native-swiper.git#e389833882"
   }
